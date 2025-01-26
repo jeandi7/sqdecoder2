@@ -118,7 +118,7 @@ But fortunately, you can always find the Motorola MC1312P chipset on the market,
 
 *The chipset Motorola MC1312P was launched on the market in the year 1973.*
 
-I put the LTSPICE files (*.asc) as well as the (public) motorola documentation on the git file.
+I put the LTSPICE files (*.asc) as well as the (public) motorola documentation on this git repository.
 
 to be continued...
 
