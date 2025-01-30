@@ -104,7 +104,7 @@ We can also change the previous circuit to get what's called a wein-bridge
 
 Unfortunately I don't have (today) an analog computer with input/output that would allow me to test in real time an SQ decoder.
 
-But fortunately, you can always find the Motorola MC1312P chipset on the market, who implements the following circuit with 2 phases shifts at 0°, 2 phases shifts at -π/2 as well as the   necessary op-amps
+But fortunately, you can always find the Motorola MC1312P chipset on the market, which implements the following circuit with 2 phases shifts at 0°, 2 phases shifts at -π/2 as well as the   necessary op-amps
 
 ![example](./images/circuit4m.png)
 
